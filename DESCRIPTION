@@ -1,0 +1,12 @@
+Package: rbridgedb
+Type: Package
+Title: rbridgedb - R client library for the BridgeDb API
+Version: 0.0.1
+Date: 2016-10-22
+Author: Kozo Nishida <knishida@riken.jp>
+Maintainer: Kozo Nishida <knishida@riken.jp>
+Depends: jsonlite, curl, RCurl, urltools
+Suggests: testit
+Description: Use this package to interface with the BridgeDb API.
+License: AGPL-3
+Encoding: UTF-8
